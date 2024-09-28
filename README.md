@@ -1,4 +1,3 @@
-![logo](https://github.com/sayaligaik/sayaligaik/blob/main/1_b29pJKZqp6Jxb3rd9QlJiw.png)
 <h1 align="center">Hi 👋, I'm Sayali Gaikwad</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
